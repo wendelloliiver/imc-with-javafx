@@ -252,8 +252,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **Oliver Dev**
 
-- 🔗 GitHub: [@seu-usuario](https://github.com/wendelloliiver)
-- 💼 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/wendelloliiver/)
+- 🔗 GitHub: [@wendelloliiver](https://github.com/wendelloliiver)
+- 💼 LinkedIn: [wendelloliiver](https://www.linkedin.com/in/wendelloliiver/)
 
 ---
 
